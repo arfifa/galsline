@@ -1,0 +1,14 @@
+.bg-galsline{
+	background-image: url('../img/bg-img/welcome.png');
+	background-size: cover;
+}
+
+.login-img{
+	width: 400px;
+	height: 300px;
+}
+
+.btn-inline-blok{
+	display: inline-block;
+	width: 40%;
+}

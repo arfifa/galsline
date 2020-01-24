@@ -1,0 +1,72 @@
+a {
+	cursor: pointer;
+}
+
+.nav-link {
+	padding: 7px !important;
+}
+
+.input-group.md-form.form-sm.form-2 input {
+	border: 1px solid #bdbdbd;
+	border-top-left-radius: 0.25rem;
+	border-bottom-left-radius: 0.25rem;
+}
+
+.input-group.md-form.form-sm.form-2 input.amber-border {
+	border: 1px solid #ffca28;
+}
+
+.input-group-text.amber.lighten-3 {
+	background-color: #ffca28;
+}
+
+.input-group-text.amber.lighten-3:hover {
+	border: 1px solid #ffca28;
+}
+
+.card.h-100 img {
+	margin: auto !important;
+	height: 250px !important;
+	width: 200px !important;
+	max-height: 200px !important;
+}
+
+.page-item.active {
+	background-color: #3edef5 !important;
+}
+
+.form-group.jumlah input {
+	width: 70px !important;
+}
+
+.checkout-wrapper {
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-image: url('../img/bg-img/welcome.png');
+	background-size: cover;
+	width: 900px;
+	padding: 30px;
+}
+
+header {
+	padding-bottom: 0px;
+}
+
+header img {
+	width: 35%;
+	height: 150px;
+	border-radius: 50px 50px 50px 0px;
+}
+
+.bank-bca {
+	font-size: 20px !important;
+	color: #000 !important;
+	margin-bottom: 10px;
+}
+
+.bank-bca img {
+	width: 100px;
+	height: 30px;
+	margin-right: 10px;
+}
